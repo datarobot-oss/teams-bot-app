@@ -1,0 +1,19 @@
+{
+  "name": "Teams Bot App",
+  "description": "Seamlessly generate a Teams bot integration for your workspace’s chat experience with DataRobot's out of the box template example. In just a few clicks, get your Teams bot up and running with easy testing and simple guidance.",
+  "templateMetadata": {
+    "tags": [
+      "Teams",
+      "Bot",
+      "GenerativeAI"
+    ],
+    "source": {
+      "repositoryUrl": "https://github.com/datarobot-oss/teams-bot-app",
+      "releaseTag": "11.0.0"
+    },
+    "previewImage": null
+  },
+  "templateType": "customApplicationTemplate",
+  "templateSubType": "customApplicationTemplate",
+  "executionEnvironmentName": "[DataRobot] Python 3.12 Applications Base"
+}

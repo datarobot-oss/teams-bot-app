@@ -4,7 +4,7 @@ Guidelines for developing and contributing to this project.
 
 ## List of project maintainers
 
-- [Your Name](Your GitHub User URL)
+- [Kim Dehmlow](https://github.com/kideh88)
 
 
 ## Opening new issues
@@ -16,10 +16,10 @@ Guidelines for developing and contributing to this project.
 ## Did you find a bug?
 
 - Do not open up a GitHub issue if the bug is a security
-vulnerability, instead email the maintainers directly or email
-oss-community-management@datarobot.com if they do not respond within
-seven days
-- Ensure the bug was not already reported in the projects Issues section
+vulnerability, instead email the maintainers directly and cc
+oss-community-management@datarobot.com
+We will review the message within the business day. 
+- Ensure the bug was not already reported in the project's Issues section
 - Open an issue as described above
 
 ## Responding to issues and pull requests
